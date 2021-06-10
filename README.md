@@ -1,4 +1,4 @@
-# @COLIEE 2021: Leveraging dense retrieval and summarization re-ranking for case law retrieval (Dossier Team)
+# DoSSIER@COLIEE 2021: Leveraging dense retrieval and summarization re-ranking for case law retrieval (Dossier Team)
 Sophia Althammer, Arian Askari, Suzan Verberne, Allan Hanbury
 
 This repository contains the code for Dossier team which is the third team at COLIEE 2021 for case law retrieval (task 1), and fifth team in Legal Case Entailment (task 2).
