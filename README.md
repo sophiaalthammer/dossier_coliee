@@ -7,7 +7,7 @@ This repository contains the code for Dossier team which is the third team at CO
 
 The repository is structured as follows:
 - `dpr/`: The Dense Passage Retrieval (DPR) implementation which is based on the facebook research DPR repository \([github](https://github.com/facebookresearch/DPR)).
-- `cedr/`: Vanilla Bert implementation which is baed on the CEDR: Contextualized Embeddings for Document Ranking implementation \([github](https://github.com/Georgetown-IR-Lab/cedr)).
+- `cedr/`: Vanilla Bert implementation which is based on the CEDR: Contextualized Embeddings for Document Ranking implementation \([github](https://github.com/Georgetown-IR-Lab/cedr)).
 - `summarizer/` contains the notebook for generating summary for coliee'21 caselaws using Longformer Encoder-Decorder (LED) model
 - `runs/`:  all the final submitted run files, containing noticed cases ranked by (bm25), and proposed method (bm25+lawdpr), vanilla bert for task1.
 
